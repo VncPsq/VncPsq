@@ -1,6 +1,6 @@
 # Hello 👋, nice to see you !
 
-![Bannière GitHub](https://github.com/VncPsq/nicetomeetyou/blob/main/BannerGitHub.png)
+![BannerGitHub](https://github.com/VncPsq/VncPsq/assets/110898802/9b3ab79c-cfd4-4426-be72-bb0d5d159bd6)
 
 ## Who am I ?
 
