@@ -19,7 +19,7 @@ I wanted to challenge myself on a solo project during my holidays :
 > By clicking the banner, you'll be redirect to the website
 
 
-[![Project DragonBall Card](https://github.com/VncPsq/VncPsq/assets/110898802/7c62cdc9-f735-46c1-a421-5b0fa47671a8)](https://dragonballcard.netlify.app/)
+[![Project DragonBall Card](https://github.com/VncPsq/VncPsq/assets/110898802/7c62cdc9-f735-46c1-a421-5b0fa47671a8)](https://dragonballcard.netlify.app/){:target="_blank"}
 
 
 ## How could I help you ?
