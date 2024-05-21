@@ -1,6 +1,9 @@
 # Hello 👋, nice to see you !
 
 ![BannerGitHub](https://github.com/VncPsq/VncPsq/assets/110898802/9b3ab79c-cfd4-4426-be72-bb0d5d159bd6)
+> [!NOTE]
+> All Banners on this README are created by myself on Figma
+
 
 ## Who am I ?
 
@@ -39,4 +42,4 @@ I wanted to challenge myself on a solo project during my holidays :
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,npm,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,npm,sass,tailwind, figma)](https://skillicons.dev)
