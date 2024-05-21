@@ -28,4 +28,4 @@ In 2024 I decided to complete my skills as an email developer by becoming a web 
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,npm,sass,tailwind)](https://skillicons.dev)
