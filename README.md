@@ -42,4 +42,4 @@ I wanted to challenge myself on a solo project during my holidays :
 
 ## My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,npm,sass,tailwind, figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,npm,sass,tailwind,figma)](https://skillicons.dev)
