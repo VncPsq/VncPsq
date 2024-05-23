@@ -35,7 +35,7 @@ I wanted to challenge myself on a solo project during my holidays :
 - Workflows
 - Structure DB
 - laws (optin / RGPD compliance)
-###  Devlopment
+###  Development
 - Development of a React application
 ###  Marketing
 - Customer and prospect loyalty strategy
