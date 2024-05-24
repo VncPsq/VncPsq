@@ -35,6 +35,8 @@ I wanted to challenge myself on a solo project during my holidays :
 - Workflows
 - Structure DB
 - laws (optin / RGPD compliance)
+- [My emails templates](https://github.com/VncPsq/Emailing)
+
 ###  Development
 - Development of a React application
 ###  Marketing
