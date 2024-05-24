@@ -28,7 +28,7 @@ I wanted to challenge myself on a solo project during my holidays :
 ## How could I help you ?
 
 ###  CRM
-- Email devlopment (HTML/CSS)
+- Email development (HTML/CSS)
 - Delivrability (IP and Domain monitoring)
 - Auth (SPF/DKIM/DMARC)
 - Campaigns Monitoring (stats)
