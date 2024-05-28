@@ -13,7 +13,7 @@ In 2023, I went with my partner to Australia and New Zealand for 10 months. We w
 
 In 2024 I decided to complete my skills as an email developer by becoming a web developer.
 
-## My latests projects
+## My latest projects
 I wanted to challenge myself on a solo project during my holidays : 
 - Estimated time : (40-hours)
 - Main Technos : React / Scss
@@ -23,6 +23,7 @@ I wanted to challenge myself on a solo project during my holidays :
 
 
 [![Project DragonBall Card](https://github.com/VncPsq/VncPsq/assets/110898802/7c62cdc9-f735-46c1-a421-5b0fa47671a8)](https://dragonballcard.netlify.app/)
+
 
 
 ## How could I help you ?
@@ -41,6 +42,12 @@ I wanted to challenge myself on a solo project during my holidays :
 - Development of a React application
 ###  Marketing
 - Customer and prospect loyalty strategy
+
+
+[![Portefolio](https://github.com/VncPsq/VncPsq/assets/110898802/f6de4c21-6523-4bf0-a267-b77e5a257e4f)
+](https://vincent-pasquiou.netlify.app/)
+
+
 
 ## My skills
 
