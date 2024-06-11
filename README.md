@@ -11,20 +11,15 @@
 
 In 2023, I went with my partner to Australia and New Zealand for 10 months. We worked on a strawberries farm and learned so many things from the locals.</p>
 
-In 2024 I decided to complete my skills as an email developer by becoming a web developer.
+In 2024 I decided to complete my skills as an email developer by becoming a web developper.
+
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=LinkedIn)](https://www.linkedin.com/in/vincentpasquiou/)
+
 
 ## My latest projects
 I wanted to challenge myself on a solo project during my holidays : 
 - Estimated time : (40-hours)
 - Main Technos : React / Scss
-
-> [!NOTE]
-> By clicking the banner, you'll be redirect to the website
-
-
-[![Project DragonBall Card](https://github.com/VncPsq/VncPsq/assets/110898802/7c62cdc9-f735-46c1-a421-5b0fa47671a8)](https://dragonballcard.netlify.app/)
-
-
 
 ## How could I help you ?
 
@@ -44,8 +39,9 @@ I wanted to challenge myself on a solo project during my holidays :
 - Customer and prospect loyalty strategy
 
 
-[![Portefolio](https://github.com/VncPsq/VncPsq/assets/110898802/f6de4c21-6523-4bf0-a267-b77e5a257e4f)
+[![Portfolio](https://github.com/VncPsq/VncPsq/assets/110898802/f6de4c21-6523-4bf0-a267-b77e5a257e4f)
 ](https://vincent-pasquiou.netlify.app/)
+
 
 
 
