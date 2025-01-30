@@ -2,7 +2,6 @@
 
 ![BannerGitHub](https://github.com/VncPsq/VncPsq/assets/110898802/9b3ab79c-cfd4-4426-be72-bb0d5d159bd6)
 > [!NOTE]
-> All Banners on this README are created by myself on Figma
 
 
 ## Who am I ?
@@ -37,10 +36,6 @@ I wanted to challenge myself on a solo project during my holidays :
 - Development of a React application
 ###  Marketing
 - Customer and prospect loyalty strategy
-
-
-[![Portfolio](https://github.com/VncPsq/VncPsq/assets/110898802/f6de4c21-6523-4bf0-a267-b77e5a257e4f)
-](https://vincent-pasquiou.netlify.app/)
 
 
 
