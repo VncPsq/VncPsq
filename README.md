@@ -1,7 +1,7 @@
 # Hello 👋, nice to see you !
 
 ![BannerGitHub](https://github.com/VncPsq/VncPsq/assets/110898802/9b3ab79c-cfd4-4426-be72-bb0d5d159bd6)
-> [!NOTE]
+
 
 
 ## Who am I ?
